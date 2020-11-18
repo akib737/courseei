@@ -1,0 +1,45 @@
+html,
+body {
+    color: #191B27;
+    font-family: 'Open Sans', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #191B27;
+}
+.container {
+    width: 1200px;
+}
+.primary-color {
+    color: #000;
+}
+.primary-color-bg {
+    background: #000;
+}
+.secondary-color {
+    color: #fff;
+}
+.secondary-color-bg {
+    background: rgb(228, 228, 228);
+}
+a,
+a:hover {
+    text-decoration: none;
+}
+ol,
+ul {
+    list-style: none;
+}
+img {
+    vertical-align: middle;
+}
+p {
+    margin: 0;
+    font-weight: 400;
+    font-size: 15px;
+    color: #191B27;
+}
